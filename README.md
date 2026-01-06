@@ -20,7 +20,7 @@ The audit approach is based on:
 - Provide findings, risk ratings, and actionable recommendations  
 - Demonstrate audit lifecycle, stakeholder reporting, and follow-up  
 
-## 📁 Module Breakdown
+## Module Breakdown
 
 ### [01 – Audit Planning](./01-audit-plan/README.md)
 - Defines scope, timeline, stakeholders, and objectives
@@ -48,7 +48,7 @@ The audit approach is based on:
 
 ---
 
-## 🛠️ Tools & Frameworks
+## Tools & Frameworks
 
 - **Frameworks:** NIST Cybersecurity Framework (CSF), ISO 19011
 - **Skills Demonstrated:**
@@ -63,7 +63,7 @@ The audit approach is based on:
 
 ---
 
-## 🎯 Who This Is For
+## Who This Is For
 
 Ideal for aspiring:
 - Cyber Risk Managers
@@ -80,6 +80,6 @@ Ideal for aspiring:
 
 ---
 
-## 📌 License
+## License
 
 This project is open source under the [MIT License](./LICENSE).
